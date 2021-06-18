@@ -1,6 +1,6 @@
 {
-  "name": "@therefore/react-text-mask",
-  "version": "5.4.4",
+  "name": "@therefore-ca/react-text-mask",
+  "version": "5.4.5",
   "description": "React input component that accepts mask pattern",
   "main": "dist.min.js",
   "author": "M.K. Safi <msafi@msafi.com>",
